@@ -9,7 +9,7 @@ version: 2
 name: Steven Zhu
 title: Software Developer
 email: kaito1410@gmail.com
-website: www.github.com/kaito1410/kaito1410.github.io
+website: www.github.com/kaito1410/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -62,16 +62,16 @@ content:
         link: github.com/kaito1410/AutoDD_Rev2
         # link_text: Project Website
         additional_links:
-          - title:  kaito1410/AutoDD_Rev2
+          - title:  a website that uses my AutoDD-Rev2 python script
             icon: fab fa-github
-            url: github.com/kaito1410/AutoDD_Rev2
+            url: http://unbiastock.com/reddit.php
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           A little side project of mine.
         description: | # this will include new lines to allow paragraphs
-          I started investing and building my portfolio a year ago. For a period of time, I was interesting in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started investing and building my portfolio a year ago. For a period of time, I was interesting in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which simply collects the number of mentions of a stock ticker and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
