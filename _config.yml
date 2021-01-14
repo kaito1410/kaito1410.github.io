@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Steven and I'm a intermediate backend software developer. My favorite language is C++ due to it's scalability and efficiency. Python is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills.
+  Hi, my name's Steven and I'm a backend software developer. My favorite language is C++ due to it's scalability and efficiency. Python is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills.
 
   My hobbies are: <mark>Cars</mark>, and <mark>Badminton</mark>
 
@@ -62,7 +62,7 @@ content:
         link: github.com/kaito1410/AutoDD_Rev2
         # link_text: Project Website
         additional_links:
-          - title:  a website that uses my AutoDD-Rev2 python script
+          - title:  A website that uses my AutoDD-Rev2 python script
             icon: fab fa-github
             url: http://unbiastock.com/reddit.php
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -71,21 +71,21 @@ content:
         quote: >
           A little side project of mine.
         description: | # this will include new lines to allow paragraphs
-          I started investing and building my portfolio a year ago. For a period of time, I was interesting in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which simply collects the number of mentions of a stock ticker and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born.
+          I started investing and building my portfolio a year ago. For a period of time, I was interesting in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which simply collects the number of mentions of a stock ticker and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user is [here](http://unbiastock.com/reddit.php).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Safe Software
+        link: https://www.safe.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Software Developer
         caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+       # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            My role at Safe Software is to develop data integration and data conversion tools for FME Desktop. I work in a large codebase that mainly uses C++, and my expertise is in parsing and processing XML and JSON data types. Some of the projects that I've worked by myself are [<mark>12d Model</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/12dxml/12dxml.htm), [<mark>QVX Writer</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qvx/qvx.htm), [<mark>Qlik Connector</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qlikjson/qlikjson.htm), [<mark>OGC WCS</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/wcs/wcs.htm), and [<mark>OGC WMTS</mark>](http://docs.safe.com/fme/2021.0/html/FME_Desktop_Documentation/FME_ReadersWriters/wmts/wmts.htm)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
