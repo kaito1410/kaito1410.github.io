@@ -9,7 +9,7 @@ version: 2
 name: Steven Zhu
 title: Software Developer
 email: kaito1410@gmail.com
-website: www.github.com/kaito1410/
+website: www.github.com/kaito1410/kaito1410.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -25,15 +25,16 @@ github_username:  kaito1410
 linkedin_username: steven-zhu-waterloo
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: channel/UCd7f4bFuV6iXzJtyiAp3Kzw
+# youtube channel link doesn't work until you have a custom channel link
+# youtube_username: channel/UCd7f4bFuV6iXzJtyiAp3Kzw
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: youtube
+  icon: fas fa-youtube
+  url: https://www.youtube.com/channel/UCd7f4bFuV6iXzJtyiAp3Kzw
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
