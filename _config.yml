@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Steven and I'm a backend software developer. My favorite language is <mark>C++</mark> due to it's scalability and efficiency. <mark>Python</mark> is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills.
+  Hi, my name's Steven and I'm a backend software developer. My favorite language is <mark>C++</mark> due to it's scalability and efficiency. <mark>Python</mark> is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills. I'm experienced with working in large code bases and integrating pre-existing solutions via their API. I'm also proficient with Git, as I use it both for work and for my personal projects.  
 
 content:
   - title: Projects # Title for the section
@@ -101,7 +101,7 @@ content:
     content:
       - layout: top-middle
         title: University of Waterloo
-        caption: 2012-2017
+        caption: September 2012 - August 2017
         sub_title: Bachelor of Computer Science And Bachelor of Business Administration Double Degree 
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -113,9 +113,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software development, some of my other interests and hobbies are:
+      Alongside my interests in software development, some of my other hobbies are:
       - Badminton
       - Gaming
+      - Cars
       - Videography/Photography
       - [Youtuber](https://www.youtube.com/channel/UCd7f4bFuV6iXzJtyiAp3Kzw)
 
