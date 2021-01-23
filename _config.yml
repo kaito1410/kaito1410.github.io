@@ -71,22 +71,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started investing and building my portfolio a year ago. For a period of time, I was interested in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which counts the number of mentions of a stock ticker on r/pennystocks and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born. Some notable features include adding yahoo finance integration, implementing a scoring system based on upvotes and reddit flair, supporting multiple subreddits, an option to sort results, and an option to output as CSV. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user is [here](http://unbiastock.com/reddit.php).
 
-      - layout: top-middle
-        title: Testing
-        link: github.com/kaito1410/AutoDD_Rev2
-        # link_text: Project Website
-        additional_links:
-          - title:  A website that uses my AutoDD-Rev2 python script
-            icon: fab fa-github
-            url: http://unbiastock.com/reddit.php
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          A little side project of mine.
-        description: | # this will include new lines to allow paragraphs
-          I started investing and building my portfolio a year ago. For a period of time, I was interested in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which counts the number of mentions of a stock ticker on r/pennystocks and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born. Some notable features include adding yahoo finance integration, implementing a scoring system based on upvotes and reddit flair, supporting multiple subreddits, an option to sort results, and an option to output as CSV. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user is [here](http://unbiastock.com/reddit.php).
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -99,33 +83,41 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at Safe Software is to develop data integration and data conversion tools for FME Desktop. I work in a large codebase that mainly uses C++, and my expertise is in parsing and processing XML and JSON data types. The projects that I was in charge of are [<mark>12d Model</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/12dxml/12dxml.htm), [<mark>TopoJSON</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/topojson/topojson.htm), [<mark>QVX Writer</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qvx/qvx.htm), [<mark>Qlik Connector</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qlikjson/qlikjson.htm), [<mark>OGC WCS</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/wcs/wcs.htm), and [<mark>OGC WMTS</mark>](http://docs.safe.com/fme/2021.0/html/FME_Desktop_Documentation/FME_ReadersWriters/wmts/wmts.htm)
+            My role at Safe Software is to develop <mark>data integration</mark> and <mark>data conversion tools</mark> for FME Desktop. I worked in a large codebase that mainly uses <mark>C++</mark>, and my expertise is parsing and processing XML and JSON data types. The projects that I was in charge of are [<mark>12d Model</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/12dxml/12dxml.htm), [<mark>TopoJSON</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/topojson/topojson.htm), [<mark>QVX Writer</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qvx/qvx.htm), [<mark>Qlik Connector</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qlikjson/qlikjson.htm), [<mark>OGC WCS</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/wcs/wcs.htm), and [<mark>OGC WMTS</mark>](http://docs.safe.com/fme/2021.0/html/FME_Desktop_Documentation/FME_ReadersWriters/wmts/wmts.htm)
+
+      - layout: left
+        title: Milliman Inc.
+        link: https://us.milliman.com/en/
+        # link_text: boringcompany.com
+        sub_title: Software Developer Intern
+        caption: August 2016 - December 2016
+       # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            My role at Milliman was to develop <mark>automation solutions</mark> for their business processes. The underlying library used was an open source scheduler called Quartz.NET and the solution was mainly developed using <mark>C#</mark>. The scheduler was to be controled via command line which would be executed from one of their internal webapp.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+        title: University of Waterloo
+        caption: 2012-2017
+        sub_title: Bachelor of Computer Science And Bachelor of Business Administration Double Degree 
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    #    description: | # this will include new lines to allow paragraphs
+     #     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    #
+      #    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in software development, some of my other interests and hobbies are:
+      - Badminton
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Videography/Photography
+      - [Youtuber](https://www.youtube.com/channel/UCd7f4bFuV6iXzJtyiAp3Kzw)
 
 # Footer
 footer_show_references: true
