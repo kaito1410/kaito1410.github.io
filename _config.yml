@@ -105,7 +105,7 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at D+H was to improve and add features to their internal webapp. On the backend, I used a combination of C# and SQL stored procedures to add, query, modify, or delete information from their database. On the frontend, I developed new pages using ASP.NET to interact with the backend. In addition, I created a new table which keeps a history of operations made by users that uses the webapp, so operations could be reverted if needed. 
+            My role at D+H was to improve and add features to their internal webapp. On the backend, I used a combination of <mark>C#</mark> and <mark>SQL stored procedures</mark> to add, query, modify, or delete information from their database. On the frontend, I developed new pages using <mark>ASP.NET</mark> to interact with the backend. In addition, I created a new table which keeps a history of operations made by users that uses the webapp, so operations could be reverted if needed. 
 
       - layout: left
         title: TD Securities
@@ -116,7 +116,7 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at TD Securities was mainly fixing bugs in their large codebase. Most of the codebase was written with C# and some C++. At the end of my internship, I created a script that automates the installation of a list of software that their financial employees need. Once the userid was given to the script, the script would pull the user's role information from the employees database and decide which software to install.  
+            My role at TD Securities was mainly fixing bugs in their large codebase. Most of the codebase was written with C# and some C++. At the end of my internship, I created an <mark>automation script</mark> that installs of a list of financial software. Once the userid was passed into the script, the script would pull the user's role information from the employees database and decide which software(s) to install.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
