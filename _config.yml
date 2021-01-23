@@ -94,7 +94,29 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at Milliman was to develop <mark>automation solutions</mark> for their business processes. The underlying library used was an open source scheduler called [<mark>Quartz.NET</mark>](https://www.quartz-scheduler.net/) and the solution was mainly developed using <mark>C#</mark>. The scheduler was to be controled via command line which would be executed from one of their internal webapp.  
+            My role at Milliman was to develop <mark>automation solutions</mark> for their business processes. The underlying library used was an open source scheduler called [<mark>Quartz.NET</mark>](https://www.quartz-scheduler.net/) and the solution was mainly developed using <mark>C#</mark>. The scheduler was to be controled via command line which would be executed from one of their internal webapp. 
+
+      - layout: left
+        title: D+H Limited Partnership
+        link: https://en.wikipedia.org/wiki/D%2BH
+        # link_text: boringcompany.com
+        sub_title: Software Developer Intern
+        caption: January 2016 - April 2016
+       # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            My role at D+H was to improve and add features to their internal webapp. On the backend, I used a combination of C# and SQL stored procedures to add, query, modify, or delete information from their database. On the frontend, I developed new pages using ASP.NET to interact with the backend. In addition, I created a new table which keeps a history of operations made by users that uses the webapp, so operations could be reverted if needed. 
+
+       - layout: left
+        title: TD Securities
+        link: https://www.tdsecurities.com/ca/en/home-page
+        # link_text: boringcompany.com
+        sub_title: Software Developer Intern
+        caption: January 2015 - April 2015
+       # quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            My role at TD Securities was mainly fixing bugs in their large codebase. Most of the codebase was written with C# and some C++. At the end of my internship, I created a script that automates the installation of a list of software that their financial employees need. Once the userid was given to the script, the script would pull the user's role information from the employees database and decide which software to install.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -102,7 +124,7 @@ content:
       - layout: top-middle
         title: University of Waterloo
         caption: September 2012 - August 2017
-        sub_title: Bachelor of Computer Science And Bachelor of Business Administration Double Degree 
+        sub_title: [Bachelor of Computer Science And Bachelor of Business Administration Double Degree](https://cs.uwaterloo.ca/future-undergraduate-students/undergraduate-programs-and-courses/business-administration-and-computer-science-double-degree)
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
     #    description: | # this will include new lines to allow paragraphs
