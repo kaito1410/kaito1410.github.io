@@ -107,7 +107,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             My role at D+H was to improve and add features to their internal webapp. On the backend, I used a combination of C# and SQL stored procedures to add, query, modify, or delete information from their database. On the frontend, I developed new pages using ASP.NET to interact with the backend. In addition, I created a new table which keeps a history of operations made by users that uses the webapp, so operations could be reverted if needed. 
 
-       - layout: left
+      - layout: left
         title: TD Securities
         link: https://www.tdsecurities.com/ca/en/home-page
         # link_text: boringcompany.com
