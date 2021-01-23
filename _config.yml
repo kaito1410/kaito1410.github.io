@@ -49,9 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Steven and I'm a backend software developer. My favorite language is C++ due to it's scalability and efficiency. Python is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills.
-
-  My hobbies are: <mark>Cars</mark>, and <mark>Badminton</mark>
+  Hi, my name's Steven and I'm a backend software developer. My favorite language is <mark>C++</mark> due to it's scalability and efficiency. <mark>Python</mark> is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills.
 
 content:
   - title: Projects # Title for the section
@@ -71,7 +69,23 @@ content:
         quote: >
           A little side project of mine.
         description: | # this will include new lines to allow paragraphs
-          I started investing and building my portfolio a year ago. For a period of time, I was interesting in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which simply collects the number of mentions of a stock ticker and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user is [here](http://unbiastock.com/reddit.php).
+          I started investing and building my portfolio a year ago. For a period of time, I was interested in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which counts the number of mentions of a stock ticker on r/pennystocks and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born. Some notable features include adding yahoo finance integration, implementing a scoring system based on upvotes and reddit flair, supporting multiple subreddits, an option to sort results, and an option to output as CSV. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user is [here](http://unbiastock.com/reddit.php).
+
+      - layout: top-middle
+        title: Testing
+        link: github.com/kaito1410/AutoDD_Rev2
+        # link_text: Project Website
+        additional_links:
+          - title:  A website that uses my AutoDD-Rev2 python script
+            icon: fab fa-github
+            url: http://unbiastock.com/reddit.php
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A little side project of mine.
+        description: | # this will include new lines to allow paragraphs
+          I started investing and building my portfolio a year ago. For a period of time, I was interested in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which counts the number of mentions of a stock ticker on r/pennystocks and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born. Some notable features include adding yahoo finance integration, implementing a scoring system based on upvotes and reddit flair, supporting multiple subreddits, an option to sort results, and an option to output as CSV. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user is [here](http://unbiastock.com/reddit.php).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,7 +99,7 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at Safe Software is to develop data integration and data conversion tools for FME Desktop. I work in a large codebase that mainly uses C++, and my expertise is in parsing and processing XML and JSON data types. Some of the projects that I've worked by myself are [<mark>12d Model</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/12dxml/12dxml.htm), [<mark>QVX Writer</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qvx/qvx.htm), [<mark>Qlik Connector</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qlikjson/qlikjson.htm), [<mark>OGC WCS</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/wcs/wcs.htm), and [<mark>OGC WMTS</mark>](http://docs.safe.com/fme/2021.0/html/FME_Desktop_Documentation/FME_ReadersWriters/wmts/wmts.htm)
+            My role at Safe Software is to develop data integration and data conversion tools for FME Desktop. I work in a large codebase that mainly uses C++, and my expertise is in parsing and processing XML and JSON data types. The projects that I was in charge of are [<mark>12d Model</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/12dxml/12dxml.htm), [<mark>TopoJSON</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/topojson/topojson.htm), [<mark>QVX Writer</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qvx/qvx.htm), [<mark>Qlik Connector</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qlikjson/qlikjson.htm), [<mark>OGC WCS</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/wcs/wcs.htm), and [<mark>OGC WMTS</mark>](http://docs.safe.com/fme/2021.0/html/FME_Desktop_Documentation/FME_ReadersWriters/wmts/wmts.htm)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
