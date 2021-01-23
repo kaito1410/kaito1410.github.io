@@ -124,7 +124,7 @@ content:
       - layout: top-middle
         title: University of Waterloo
         caption: September 2012 - August 2017
-        sub_title: [Bachelor of Computer Science And Bachelor of Business Administration Double Degree](https://cs.uwaterloo.ca/future-undergraduate-students/undergraduate-programs-and-courses/business-administration-and-computer-science-double-degree)
+        sub_title: Bachelor of Computer Science And Bachelor of Business Administration Double Degree
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
     #    description: | # this will include new lines to allow paragraphs
