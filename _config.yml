@@ -94,12 +94,12 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at Milliman was to develop <mark>automation solutions</mark> for their business processes. The underlying library used was an open source scheduler called Quartz.NET and the solution was mainly developed using <mark>C#</mark>. The scheduler was to be controled via command line which would be executed from one of their internal webapp.  
+            My role at Milliman was to develop <mark>automation solutions</mark> for their business processes. The underlying library used was an open source scheduler called [<mark>Quartz.NET</mark>](https://www.quartz-scheduler.net/) and the solution was mainly developed using <mark>C#</mark>. The scheduler was to be controled via command line which would be executed from one of their internal webapp.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle
         title: University of Waterloo
         caption: 2012-2017
         sub_title: Bachelor of Computer Science And Bachelor of Business Administration Double Degree 
