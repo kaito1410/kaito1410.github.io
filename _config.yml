@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Steven and I'm a backend software developer. My favorite language is <mark>C++</mark> due to it's scalability and efficiency. <mark>Python</mark> is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills. I'm experienced with working in large code bases and integrating pre-existing solutions via their API. I'm also proficient with Git, as I use it both for work and for my personal projects.  
+  Hi, my name's Steven and I'm a backend software developer. My favorite language is <mark>C++</mark> due to it's scalability and efficiency. <mark>Python</mark> is a close second due to its flexibilty and ease of use. I have worked at multiple companies gaining valuable experience and teamwork skills. I'm proficient with working in large code bases and integrating 3rd party solutions via API. I'm also familiar with Git, as I use it both for work and personal projects.  
 
 content:
   - title: Projects # Title for the section
@@ -69,7 +69,7 @@ content:
         quote: >
           A little side project of mine.
         description: | # this will include new lines to allow paragraphs
-          I started investing and building my portfolio a year ago. For a period of time, I was interested in playing with penny stocks but had no idea where to find them. After discovering a subreddit called [<mark>r/pennystocks</mark>](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours and hours everyday. One day, a reddit user published AutoDD, a python script which counts the number of mentions of a stock ticker on r/pennystocks and present that to the user. Since then, I have added many features and functionalities over the original AutoDD, hence <mark>r/AutoDD-Rev2</mark> was born. Some notable features include adding yahoo finance integration, implementing a scoring system based on upvotes and reddit flair, supporting multiple subreddits, an option to sort results, and an option to output as CSV. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user can be [found here](https://www.reddit.com/r/CanadianInvestor/comments/l24d34/most_trending_stocks_in_reddit_by_sub_thread/).
+          I started investing and building an investment portfolio a year ago. For a period of time, I was deeply interested in penny stocks but had no idea where to find new tickers. After discovering a subreddit called [r/pennystocks](https://www.reddit.com/r/pennystocks/), I would end up reading the subreddit for hours everyday. One day, a reddit user created a python script which counts the number of mentions of a stock ticker on r/pennystocks. Since then, I have taken over the project and added many features and functionalities over the original script, hence <mark>r/AutoDD-Rev2</mark> was born. Some notable features include adding yahoo finance integration, implementing a scoring system based on upvotes and reddit flair, supporting multiple subreddits, an option to sort results, and an option to output as CSV. The source code is [here](https://github.com/kaito1410/AutoDD_Rev2) and a webapp of the script in action, created by another reddit user can be found [here](https://www.reddit.com/r/CanadianInvestor/comments/l24d34/most_trending_stocks_in_reddit_by_sub_thread/).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,7 +83,7 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at Safe Software is to develop <mark>data integration</mark> and <mark>data conversion tools</mark> for FME Desktop. I worked in a large codebase that mainly uses <mark>C++</mark>, and my expertise is parsing and processing XML and JSON data types. The projects that I was in charge of are [<mark>12d Model</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/12dxml/12dxml.htm), [<mark>TopoJSON</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/topojson/topojson.htm), [<mark>QVX Writer</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qvx/qvx.htm), [<mark>Qlik Connector</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qlikjson/qlikjson.htm), [<mark>OGC WCS</mark>](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/wcs/wcs.htm), and [<mark>OGC WMTS</mark>](http://docs.safe.com/fme/2021.0/html/FME_Desktop_Documentation/FME_ReadersWriters/wmts/wmts.htm)
+            My role at Safe Software is to develop <mark>data integration</mark> and <mark>data conversion tools</mark> for FME Desktop. I worked in a large codebase that mainly uses <mark>C++</mark>, and my expertise is parsing and processing XML and JSON data types. The projects that I was in charge of are [12d Model](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/12dxml/12dxml.htm), [TopoJSON](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/topojson/topojson.htm), [QVX Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qvx/qvx.htm), [Qlik Connector](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/qlikjson/qlikjson.htm), [OGC WCS](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/wcs/wcs.htm), and [OGC WMTS](http://docs.safe.com/fme/2021.0/html/FME_Desktop_Documentation/FME_ReadersWriters/wmts/wmts.htm)
 
       - layout: left
         title: Milliman Inc.
@@ -94,7 +94,7 @@ content:
        # quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My role at Milliman was to develop <mark>automation solutions</mark> for their business processes. The underlying library used was an open source scheduler called [<mark>Quartz.NET</mark>](https://www.quartz-scheduler.net/) and the solution was mainly developed using <mark>C#</mark>. The scheduler was to be controled via command line which would be executed from one of their internal webapp. 
+            My role at Milliman was to develop <mark>automation solutions</mark> for their business processes. The underlying library used was an open source scheduler called [Quartz.NET](https://www.quartz-scheduler.net/) and the solution was mainly developed using <mark>C#</mark>. The scheduler was to be controled via command line which would be executed from one of their internal webapp. 
 
       - layout: left
         title: D+H Limited Partnership
